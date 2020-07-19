@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Dieu tout-puissant et éternel, augmentez en nous la foi, l’espérance et la charité ; et pour que nous méritions d’obtenir ce que vous promettez, faites-nous aimer ce que vous commandez.
+Dieu tout-puissant et éternel, augmentez en nous la foi, l’espérance et la charité ; et pour que nous méritions d’obtenir ce que Vous promettez, faites-nous aimer ce que Vous commandez.
 $Per Dominum
 
 [Lectio7]
@@ -31,7 +31,7 @@ Que l’Église se garde donc de tels hommes ! Ainsi, s’il se peut, se voyant 
 &teDeum
 
 [Ant 2]
-Comme Jésus entrait * dans un village, dix lépreux vinrent au-devant de lui ; et, se tenant éloignés, ils élevèrent la voix, en disant : Jésus, maître, ayez pitié de nous.
+Comme Jésus entrait * dans un village, dix lépreux vinrent au-devant de Lui ; et, se tenant éloignés, ils élevèrent la voix, en disant : Jésus, maître, ayez pitié de nous.
 
 [Ant 3]
 L’un d’eux, * voyant qu’il était guéri revint, glorifiant Dieu à haute voix, alléluia.
