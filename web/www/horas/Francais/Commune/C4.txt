@@ -8,42 +8,42 @@ Psalm5 Vespera=116
 Psalm5 Vespera3=131
 
 [Ant Vespera]
-Ecce sacérdos magnus, * qui in diébus suis plácuit Deo, et invéntus est justus.
-Non est invéntus * símilis illi, qui conserváret legem Excélsi.
-Ideo jurejurándo * fecit illum Dóminus créscere in plebem suam.
-Sacerdótes Dei, * benedícite Dóminum : servi Dómini, hymnum dícite Deo. Alleluia.
-Serve bone * et fidélis, intra in gáudium Dómini tui.
+Voici le grand prêtre * qui, pendant sa vie, a plu à DIeu et a été trouvé juste.
+Il ne s'en est pas trouvé * de semblable à lui pour conserver la loi du Très-Haut.
+C'est pourquoi, par sermon * le Seigneur l'a fait grandir pour son peuple.
+Prêtres de Dieu, * bénissez le Seigneur ; serviteurs de Dieu, dites un hymne à Dieu. Alléluia.
+Serviteur bon * et fidèle, entre dans la joie de ton Seigneur.
 
 [Capitulum Vespera]
 !Sir 44:16-17
-v. Voici un grand-prêtre qui, aux jours de sa vie, a plu à Dieu et a été trouvé juste, et qui, au temps de sa colère, est devenu réconciliation.
+v. Voici un grand-prêtre qui, aux jours de sa vie, a plu à Dieu et a été trouvé juste et qui, au temps de sa colère, est devenu réconciliation.
 $Deo gratias
 
 [Hymnus Vespera]
-{:H-Isteconfessor:}v. Iste Conféssor Dómini, coléntes
-Quem pie laudant pópuli per orbem,
-Hac die lætus méruit beátas
-Scandere sedes.
+{:H-Isteconfessor:}v. Ce confesseur du Seigneur, 
+Que les peuples de toute la terre célèbrent par une pieuse louange,,
+Aujourd'hui à obtenu la joie
+De monter aux sièges des bienheureux.
 _
-Qui pius, prudens, húmilis, pudícus,
-Sóbriam duxit sine labe vitam,
-Donec humanos animávit auræ
-Spíritus artus.
+Pieux, prudent, humble, pudique,
+Il a mené une vie sobre, sans faute,
+Tant que ses membres ont été animés
+Du souffle de vie.
 _
-Cujus ob præstans méritum, frequénter,
-Ægra quæ passim jacuére membra,
-Víribus morbi dómitis, salúti
-Restituúntur.
+Par son puissant mérite, souvent,
+la maladie est terrassée,
+Les corps infirmes qui gisaient çà et là
+Sont rendus à la santé.
 _
-Noster hinc illi chorus obsequéntem
-Cóncinit laudem celebrésque palmas,
-Ut piis ejus précibus juvémur
-Omne per ævum.
+Aussi notre chœur chante en son honneur
+Une hymne déférente à ses palmes glorieuses,
+Pour que ses pieuses prières nous aident
+En tout temps.
 _
-Sit salus illi, decus atque virtus,
-Qui, super cæli sólio corúscans,
-Totíus mundi sériem gubérnat,
-Trinus et unus.  
+Salut, honneur, puissance à Celui,
+Qui, brillant sur le trône du ciel,
+Gouverne l'enchaînement du monde entier,
+Trine et Un.  
 Amen.
 
 [Hymnus1 Vespera]
@@ -75,7 +75,7 @@ Amen.
 
 [Versum 1]
 V. Le Seigneur l'a aimé et l’a paré.
-R. Il Ta revêtu de la robe de gloire.
+R. Il l'a revêtu de la robe de gloire.
 
 [Ant 1]
 Prêtre et Pontife * artisan des vertus, bon pasteur du peuple, priez pour nous le Seigneur.
@@ -219,11 +219,11 @@ Sed is, qui quinque talénta acceperat, alia quinque lucrátus est : quia sunt n
 &teDeum
 
 [Ant Laudes]
-Ecce sacérdos magnus, * qui in diébus suis plácuit Deo, et invéntus est justus.
-Non est invéntus * símilis illi, qui conserváret legem Excélsi.
-Ideo jurejurándo * fecit illum Dóminus créscere in plebem suam.
-Sacerdótes Dei, * benedícite Dóminum : servi Dómini, hymnum dícite Deo. Alleluia.
-Serve bone * et fidélis, intra in gáudium Dómini tui.
+Voici le grand prêtre * qui, pendant sa vie, a plu à DIeu et a été trouvé juste.
+Il ne s'en est pas trouvé * de semblable à lui pour conserver la loi du Très-Haut.
+C'est pourquoi, par sermon * le Seigneur l'a fait grandir pour son peuple.
+Prêtres de Dieu, * bénissez le Seigneur ; serviteurs de Dieu, dites un hymne à Dieu. Alléluia.
+Serviteur bon * et fidèle, entre dans la joie de ton Seigneur.
 
 [Capitulum Laudes]
 @:Capitulum Vespera
