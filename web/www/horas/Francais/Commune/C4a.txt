@@ -23,7 +23,7 @@ Psalm5 Vespera3=131
 @Commune/C4
 
 [Ant 1]
-O Doctor óptime, * Ecclésiæ sanctæ lumen, beáte N., divínæ legis amátor, deprecáre pro nobis Fílium Dei.
+O Docteur excellent, * lumière de la sainte Eglise, bienheureux N., amoureux de la loi divine, priez pour nous le Fils de Dieu.
 
 [Invit]
 @Commune/C4
